@@ -7,11 +7,11 @@ const HeroSection = () => {
     <section className="hero-section">
       {/* Left: Image Side */}
       <div className="hero-image">
-        <img
+        {/* <img
           src=""
           alt="Website content marketing, blogging, media"
           className="hero-img"
-        />
+        /> */}
         <div className="image-overlay"></div>
       </div>
       
