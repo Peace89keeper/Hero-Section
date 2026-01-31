@@ -8,7 +8,7 @@ const HeroSection = () => {
       {/* Left: Image Side */}
       <div className="hero-image">
         <img
-          src="https://media.gettyimages.com/id/1961311540/vector/retro-browser-computer-window-in-90s-style-with-icons-and-stickers-retro-wave-pc-desktop.jpg?s=612x612&w=0&k=20&c=Ii0_RtCtkwqg8qMK5SyqBHBIuzmOoUR6k9SAzqc7kEA="
+          src=""
           alt="Website content marketing, blogging, media"
           className="hero-img"
         />
